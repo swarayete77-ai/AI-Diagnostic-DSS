@@ -58,16 +58,23 @@ CKD is progressive loss of kidney function, often caused by Diabetes and Hyperte
 To improve usability and real-world applicability, key clinically relevant features were selected for each disease:
 
 **Type 2 Diabetes (8 features)**
-Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age
+Pregnancies
+-Glucose
+-Blood Pressure
+-Skin Thickness
+-Insulin
+-BMI
+-Diabetes Pedigree Function
+-Age
 
-**Heart Disease (13 features)**
+**Heart Disease (5 features)**
 - Age  
 - Resting Blood Pressure  
 - Cholesterol  
 - Maximum Heart Rate  
 - ST Depression (Oldpeak)
 
-**Chronic Kidney Disease (24 features)**
+**Chronic Kidney Disease (11 features)**
 - Age, Blood Pressure  
 - Specific Gravity, Albumin, Sugar  
 - Blood Glucose, Urea, Creatinine  
