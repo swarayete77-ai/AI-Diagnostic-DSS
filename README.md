@@ -99,7 +99,3 @@ To improve usability and real-world applicability:
 - seaborn  
 - joblib  
 - streamlit  
-
----
-
-## 📂 Project Structure
